@@ -23,8 +23,8 @@ class ResultsPage extends StatelessWidget {
               cardChild: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
-                  Text('OWERWEIGHT'),
-                  Text('26', style: kDefaultNumStyle,)
+                  Text('Normal'),
+                  Text('22.5', style: kDefaultNumStyle,)
                 ],
               ),
 
